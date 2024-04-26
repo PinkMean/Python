@@ -1,0 +1,50 @@
+# Introduction to Python
+
+# Python: A versatile programming language created by Guido van Rossum, first released in 1991.
+
+# Hello World Program
+print("Hello, World!")
+
+# Checking Python Installation and Version
+# Command-line:
+# python --version
+
+# Running Python in Command Line
+# Command-line:
+# python
+# exit()
+
+# Creating a Python File
+# Python code typically resides in files with a .py extension.
+# Example: Create a file named sample.py and add Python code to it.
+
+# Variables in Python
+# Variables store data. Unlike some languages, Python doesn't require declaring the data type explicitly.
+
+x = 'Hello World'  # Example: Assigning a string to a variable named x
+
+# Comments in Python
+# Use # for single-line comments and ''' ''' for multi-line comments.
+
+# Data Types
+# Python supports various data types:
+# - Integers: Whole numbers.
+# - Floats: Numbers with decimal points.
+# - Strings: Text, enclosed in single (' ') or double (" ") quotes.
+# - Booleans: True or False values, used for logical operations.
+
+# Examples of Data Types:
+
+age = 30  # Integer
+height = 5.3  # Float
+name = "Ana"  # String
+is_python_fun = True  # Boolean
+
+# Printing Variables
+# Use print() to display the value of variables.
+
+print(x)  # Output: Hello World
+print(age)  # Output: 30
+print(height)  # Output: 5.3
+print(name)  # Output: Ana
+print(is_python_fun)  # Output: True
